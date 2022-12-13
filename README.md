@@ -1,4 +1,4 @@
-* its a simple and small kitchen todo list project and also its my first js project.
+ its a simple and small kitchen todo list project and also its my first js project.
 
 features on this project
 -----------------------
